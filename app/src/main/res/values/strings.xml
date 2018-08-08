@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+
+    <string name="main_submit">Submit</string>
+
+    <string name="main_textview">Movie Finder</string>
+</resources>
